@@ -4,6 +4,7 @@
 "asmCodeUrl": "metromania.asm.code.unityweb",
 "asmMemoryUrl": "metromania.asm.memory.unityweb",
 "asmFrameworkUrl": "metromania.asm.framework.unityweb",
+"asmSymbolsUrl": "metromania.asm.symbols.unityweb",
 "splashScreenStyle": "Dark",
 "backgroundColor": "#222C36"
 }
