@@ -1,10 +1,10 @@
 {
 "TOTAL_MEMORY": 268435456,
-"dataUrl": "metromania.data.unityweb",
-"asmCodeUrl": "metromania.asm.code.unityweb",
-"asmMemoryUrl": "metromania.asm.memory.unityweb",
-"asmFrameworkUrl": "metromania.asm.framework.unityweb",
-"asmSymbolsUrl": "metromania.asm.symbols.unityweb",
+"dataUrl": "Metromania.data.unityweb",
+"asmCodeUrl": "Metromania.asm.code.unityweb",
+"asmMemoryUrl": "Metromania.asm.memory.unityweb",
+"asmFrameworkUrl": "Metromania.asm.framework.unityweb",
+"asmSymbolsUrl": "Metromania.asm.symbols.unityweb",
 "splashScreenStyle": "Dark",
 "backgroundColor": "#222C36"
 }
